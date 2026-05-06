@@ -5,7 +5,7 @@ SmartDesk AI, yapay zekâ destekli mail ve evrak analiz sistemi ile tekrarlı of
 
 ## MVP Özellikleri
 - Mail/Evrak metni girişi
-- AI destekli özet çıkarma
+- Yapay zeka destekli özet çıkarma
 - Kategori belirleme
 - Öncelik seviyesi belirleme
 - Görev çıkarımı
@@ -14,26 +14,26 @@ SmartDesk AI, yapay zekâ destekli mail ve evrak analiz sistemi ile tekrarlı of
 ## Geliştirme Süreci
 
 ### Aşama 1 – Planlama
-- Repository oluşturma
+- Depo oluşturma
 - GitHub Flow kurulumu
 - ROADMAP ve ARCHITECTURE dosyalarının hazırlanması
 
 ### Aşama 2 – Geliştirme
-- Frontend arayüz geliştirme
-- Backend API geliştirme
-- AI prompt tasarımı
+- Ön yüz arayüz geliştirme
+- Arka uç API geliştirme
+- Yapay zeka istem tasarımı
 - Sonuç kartlarının oluşturulması
 
 ### Aşama 3 – Final Süreci
 - Testler
-- Refactoring
-- Final review
+- Yeniden düzenleme
+- Final inceleme
 - Demo hazırlığı
 
 ## Takım Rolleri
-- Lead Developer / Maintainer: Repository yönetimi, PR kontrolü, merge işlemleri
-- Feature Developer 1: Frontend geliştirme
-- Feature Developer 2: Backend ve AI entegrasyonu
+- Lider geliştirici / bakım sorumlusu: Depo yönetimi, PR kontrolü, birleştirme işlemleri
+- Özellik geliştirici 1: Ön yüz geliştirme
+- Özellik geliştirici 2: Arka uç ve yapay zeka entegrasyonu
 
-## AI-Augmented Development
-Bu roadmap Plan Agent desteğiyle hazırlanmış ve ekip tarafından manuel olarak düzenlenmiştir.
+## Yapay Zeka Destekli Geliştirme
+Bu yol haritası planlama ajanı desteğiyle hazırlanmış ve ekip tarafından manuel olarak düzenlenmiştir.
